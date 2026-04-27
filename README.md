@@ -20,7 +20,6 @@
   - 사용자 중심의 예외 상황을 고려한 시스템 설계 및 구현 
 
 ## 🛠 Tech Stack
-## 🛠 Tech Stack
 
 ### 🖥️ Development (Back-End & Front-End)
 - **Languages:** Java, JavaScript (ES6+), JSP, Servlet, HTML5, CSS3
