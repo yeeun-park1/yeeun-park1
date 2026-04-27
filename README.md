@@ -34,7 +34,7 @@
 ### ☁️ Infrastructure & DevOps
 - **Cloud (AWS):** EC2, S3, Route 53
 - **Environment:** Linux (Ubuntu, CentOS), Windows Server
-- **VCS & Tools:** Git, GitHub, Docker
+- **VCS & Tools:** Git, GitHub
 
 ### 🔧 Tools & IDE
 - **IDE:** **IntelliJ IDEA**, **Eclipse**, Visual Studio Code (VS Code)
@@ -42,16 +42,15 @@
 - **Office:** Microsoft Excel, PowerPoint, Word, Access
 
 ### 🛡️ Current Training
-- **Security:** SK쉴더스 루키즈 18기 (보안개발자 과정 참여 중)
-</p>
-
-## 📈 GitHub Stats
-![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=woal2854&show_icons=true&theme=radical)
+- **Security:** SK쉴더스 루키즈 32기 (보안개발자 과정 참여 중)
+- **인천일보 아카데미** | JAVA 기반 백엔드 웹 개발자 양성과정 이수
+  - Java, JSP/Servlet을 활용한 MVC 패턴 웹 애플리케이션 구현
+  - Spring Framework 및 MyBatis 기반의 기업용 웹 서비스 개발 프로젝트 수행
+  - 관계형 데이터베이스(MySQL) 설계 및 SQL 최적화 학습
 
 ## 📫 Contact & Links
-- [cite_start]**Email:** yee********@outlook.com 
-- [cite_start]**Blog:** [Naver Blog - 기록하는 개발자](https://blog.naver.com/woal2854) [cite: 415, 417]
-- [cite_start]**Portfolio:** [All-of-Travel GitHub](https://github.com/yeeun-park1/All-of-Travel.git) [cite: 327]
+- **Email:** yeeun.park1@outlook.com 
+- **Blog:** [Naver Blog - 기록하는 개발자](https://blog.naver.com/woal2854) 
+- **Portfolio:** [All-of-Travel GitHub](https://github.com/yeeun-park1/All-of-Travel.git)
 
----
-[cite_start]*“가르침을 기다리기보다 스스로 움직이며, 불가능을 가능으로 만드는 개발자가 되겠습니다.”* [cite: 463, 464]
+- *“가르침을 기다리기보다 스스로 움직이며, 불가능을 가능으로 만드는 개발자가 되겠습니다.”* 
