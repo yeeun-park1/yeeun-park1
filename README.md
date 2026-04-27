@@ -20,19 +20,30 @@
   - 사용자 중심의 예외 상황을 고려한 시스템 설계 및 구현 
 
 ## 🛠 Tech Stack
-### Security & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+## 🛠 Tech Stack
 
-### Infrastructure & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_EC2/S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Nexacro-FF4F8B?style=for-the-badge&logo=codeforces&logoColor=white">
+### 🖥️ Development (Back-End & Front-End)
+- **Languages:** Java, JavaScript (ES6+), JSP, Servlet, HTML5, CSS3
+- **Frameworks:** Spring Framework, Spring Boot, MyBatis, Spring Data JPA
+- **View Engine:** **Thymeleaf**, Mustache
+- **UI Platform:** **Nexacro (17/N)**, **eXbuilder6**, Bootstrap
+
+### 💾 Data & Analysis
+- **DBMS:** MySQL, Oracle SQL, MSSQL, MariaDB
+- **Tools:** RStudio (데이터 분석 및 시각화), SQL Developer
+
+### ☁️ Infrastructure & DevOps
+- **Cloud (AWS):** EC2, S3, Route 53
+- **Environment:** Linux (Ubuntu, CentOS), Windows Server
+- **VCS & Tools:** Git, GitHub, Docker
+
+### 🔧 Tools & IDE
+- **IDE:** **IntelliJ IDEA**, **Eclipse**, Visual Studio Code (VS Code)
+- **Design:** Adobe Photoshop, GTQ
+- **Office:** Microsoft Excel, PowerPoint, Word, Access
+
+### 🛡️ Current Training
+- **Security:** SK쉴더스 루키즈 18기 (보안개발자 과정 참여 중)
 </p>
 
 ## 📈 GitHub Stats
