@@ -51,6 +51,5 @@
 ## 📫 Contact & Links
 - **Email:** yeeun.park1@outlook.com 
 - **Blog:** [Naver Blog - 기록하는 개발자](https://blog.naver.com/woal2854) 
-- **Portfolio:** [All-of-Travel GitHub](https://github.com/yeeun-park1/All-of-Travel.git)
 
 - *“가르침을 기다리기보다 스스로 움직이며, 불가능을 가능으로 만드는 개발자가 되겠습니다.”* 
